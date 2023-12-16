@@ -10,6 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    /* background: blue; */
     background: url(./img.jpg);
     /* background: url(./red-car-on-road-art.jpg); */
     background-size: cover;
@@ -67,7 +68,7 @@ i {
     display: flex;
     justify-content: space-between;
     font-size: 16px;
-    margin-right: -15px 0 15px;
+    margin-right: 15px;
     margin-bottom: 10px;
 }
 
